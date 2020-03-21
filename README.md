@@ -1,2 +1,1 @@
-# DataScience
-Analyzes bunch of things from data
+# Analyzes bunch of things from data! 📈🧑🏻‍💻
